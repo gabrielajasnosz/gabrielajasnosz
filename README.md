@@ -14,7 +14,7 @@
 * Android Studio
 * PostgreSQL
 
-I also know fundamentals of C/C++, Python and Matlab.
+I also know fundamentals of C/C++, Python, Matlab and Kotlin.
 
 ### :sparkler: My interests
 
