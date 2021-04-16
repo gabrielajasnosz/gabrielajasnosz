@@ -1,3 +1,4 @@
+ *"Setting goal is the first step in turning the invisible into visible"* - Tony Robbins
 
 
 ## Welcome to my github! :wave:
