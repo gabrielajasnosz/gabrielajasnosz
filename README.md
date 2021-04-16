@@ -8,7 +8,7 @@
 * Java | IntellijIdea
 * Spring | REST Api
 * Design Patterns
-* JavaScript | HTML | CSS
+* JavaScript | TypeScript | HTML | CSS
 * ReactNative
 * Angular
 * Android Studio
@@ -26,9 +26,6 @@ I also know fundamentals of C/C++, Python and Matlab.
 [My linkedin](https://www.linkedin.com/in/gabriela-jasnosz-8b173120b/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielajasnosz&show_icons=true&theme=midnight-purple)
-
-
-
 
 <!--
 **gabrielajasnosz/gabrielajasnosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
