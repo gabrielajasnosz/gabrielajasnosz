@@ -1,4 +1,4 @@
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+
 
 ## Welcome to my github! :wave:
 ### I'm Gabriela, and I'm a third year student of Computer Science. I am looking for a job as a programmer, that will help me develop my skills and gain valuable experience.
