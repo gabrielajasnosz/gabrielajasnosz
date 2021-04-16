@@ -25,7 +25,8 @@ I also know fundamentals of C/C++, Python and Matlab.
 ### :woman: Get to know me better
 [My linkedin](https://www.linkedin.com/in/gabriela-jasnosz-8b173120b/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielajasnosz&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielajasnosz)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **gabrielajasnosz/gabrielajasnosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
