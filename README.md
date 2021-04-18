@@ -25,7 +25,6 @@ I also know fundamentals of C/C++, Python, Matlab and Kotlin.
 ### :woman: Get to know me better
 [My linkedin](https://www.linkedin.com/in/gabriela-jasnosz-8b173120b/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielajasnosz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
