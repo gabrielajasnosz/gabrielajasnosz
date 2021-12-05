@@ -1,6 +1,5 @@
 
 ## Welcome to my github! :wave:
-I'm Gabriela, and I'm a third year student of Computer Science.
 
 ### :computer: Technologies and Skills
 * React.js | React Native
