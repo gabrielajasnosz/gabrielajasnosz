@@ -2,9 +2,8 @@
 ## Welcome to my github! :wave:
 
 ### :computer: Technologies and Skills
-* React.js | React Native
-* JavaScript | TypeScript | HTML | CSS
-* Java | Intellij IDEA | Spring | REST Api
+* Java | Spring | Hibernate | Maven
+* React.js |JavaScript | TypeScript | HTML | CSS
 * PostgreSQL 
 * Design patterns
 
